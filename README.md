@@ -12,5 +12,5 @@ A Streamlit web application that performs **Exploratory Data Analysis (EDA)**, *
 -
 - Papa, Rishon Simone V.
 
-[Palagay nalang ng mga names above ng members para ma-add kayo sa commit history - P.]
+[Palagay nalang ng mga names sa members para ma-add kayo sa commit history - P.]
 
